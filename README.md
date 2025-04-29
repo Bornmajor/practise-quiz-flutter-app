@@ -1,4 +1,4 @@
-# Practise quiz app
+# Practise quiz flutter app
 
 Simple quiz app demonstrating flutter + dart skills.
 
