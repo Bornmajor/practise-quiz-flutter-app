@@ -1,6 +1,11 @@
-# first_app
+# Practise quiz app
 
-A new Flutter project.
+Simple quiz app demonstrating flutter + dart skills.
+
+# Key feature
+
+User get a set of questions which they can answer then get a immediate results.
+
 
 ## Getting Started
 
